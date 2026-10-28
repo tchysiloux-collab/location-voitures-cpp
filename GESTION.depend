@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1789111647 source:c:\users\dell\downloads\gestion\agence.cpp
+	"Agence.h"
+	"Utils.h"
+	<iostream>
+	<iomanip>
+
+1789111647 c:\users\dell\downloads\gestion\agence.h
+	<string>
+	"GestionVoitures.h"
+	"GestionClients.h"
+	"GestionFactures.h"
+
+1789110375 c:\users\dell\downloads\gestion\gestionvoitures.h
+	<vector>
+	<string>
+	"Voiture.h"
+
+1789110375 c:\users\dell\downloads\gestion\voiture.h
+	<string>
+	<fstream>
+
+1789077429 c:\users\dell\downloads\gestion\gestionclients.h
+	<vector>
+	<string>
+	"Client.h"
+
+1789073846 c:\users\dell\downloads\gestion\client.h
+	<string>
+	<fstream>
+
+1789110375 c:\users\dell\downloads\gestion\gestionfactures.h
+	<vector>
+	<string>
+	"Facture.h"
+
+1789111647 c:\users\dell\downloads\gestion\facture.h
+	<string>
+	<fstream>
+
+1789078379 source:c:\users\dell\downloads\gestion\client.cpp
+	"Client.h"
+	"Utils.h"
+	<iostream>
+	<iomanip>
+
+1789111647 source:c:\users\dell\downloads\gestion\facture.cpp
+	"Facture.h"
+	"Utils.h"
+	<iostream>
+	<iomanip>
+
+1789106897 source:c:\users\dell\downloads\gestion\gestionclients.cpp
+	"GestionClients.h"
+	"Utils.h"
+	<iostream>
+	<iomanip>
+
+1789110375 source:c:\users\dell\downloads\gestion\gestionfactures.cpp
+	"GestionFactures.h"
+	"Utils.h"
+	<iostream>
+	<iomanip>
+
+1789110375 source:c:\users\dell\downloads\gestion\gestionvoitures.cpp
+	"GestionVoitures.h"
+	"Utils.h"
+	<iostream>
+	<iomanip>
+
+1789111647 source:c:\users\dell\downloads\gestion\main.cpp
+	"Agence.h"
+
+1789110375 source:c:\users\dell\downloads\gestion\voiture.cpp
+	"Voiture.h"
+	"Utils.h"
+	<iostream>
+	<iomanip>
+
+1789107904 c:\users\dell\downloads\gestion\utils.h
+	<string>
+
+1789107904 source:c:\users\dell\downloads\gestion\utils.cpp
+	"Utils.h"
+	<sstream>
+	<iostream>
+
